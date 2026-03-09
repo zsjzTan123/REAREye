@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">REAREye</string>
+    <string name="xposed_desc">Something is always watching from behind</string>
+    <string name="status_card">Status</string>
+    <string name="module_version">Module version: %1$s</string>
+    <string name="module_not_activated">Module not activated</string>
+    <string name="module_is_activated">Module is activated</string>
+    <string name="display_settings">Display settings</string>
+    <string name="home_navigation">Home</string>
+    <string name="configuration_navigation">Config</string>
+    <string name="configuration_title">Configuration</string>
+    <string name="application_select_title">Select Applications</string>
+    <string name="selection_cancel">Cancel</string>
+    <string name="selection_save">Save</string>
+    <string name="show_system_apps">Show System Apps</string>
+    <string name="search_apps">Search Name or Package…</string>
+
+    <string name="category_system">System Framework</string>
+    <string name="cfg_activities_whitelist">Activities Whitelist</string>
+    <string name="cfg_activities_whitelist_desc">Allows you to customize which applications can open on the rear screen</string>
+    <string name="enable_custom_activities_whitelist">Enable Custom Activities Whitelist</string>
+    <string name="custom_activities_whitelist_apps">Whitelist Apps</string>
+    <string name="custom_activities_whitelist_apps_desc">Choose which apps can open on the rear screen</string>
+
+    <string name="category_subscreencenter">Subscreen Center</string>
+    <string name="cfg_music_control_whitelist">Music Controls Whitelist</string>
+    <string name="cfg_music_control_whitelist_desc">Allows you to customize the music controls that can be displayed on the rear screen</string>
+    <string name="enable_music_control_whitelist">Enable Custom Music Controls Whitelist</string>
+    <string name="music_control_whitelist_apps">Whitelist Apps</string>
+    <string name="music_control_whitelist_apps_desc">Choose which apps music controls can be displayed on the rear screen</string>
+</resources>
